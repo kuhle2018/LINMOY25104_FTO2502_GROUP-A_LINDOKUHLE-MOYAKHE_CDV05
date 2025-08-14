@@ -1,17 +1,13 @@
 # LINMOY25104_FTO2502_GROUP-A_LINDOKUHLE-MOYAKHE_CDV05
 
 ## Project Overview
-This project is part of the FTO2502 Learnership (NQF Level 4) under Group A. Developed by Lindokuhle Moyakhe, this repository contains the work and source code related to the learnership and associated assignments.
+Developed by Lindokuhle Moyakhe, this repository contains the work and source code related to the project and associated assignments.
 
 ## Repository Contents
 - Source code files and assets related to the project
 - Documentation and notes supporting the development
 - Any additional resources required to run and test the project
 
-## Features
-- [Add any key features of your project here]
-- [Example: Interactive Kanban board for task management]
-- [Example: Modal dialog for task editing]
 
 ## Getting Started
 
